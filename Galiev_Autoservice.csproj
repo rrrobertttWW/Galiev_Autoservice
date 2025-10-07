@@ -189,9 +189,27 @@
       <DependentUpon>GalievModel.edmx</DependentUpon>
       <LastGenOutput>GalievModel.cs</LastGenOutput>
     </Content>
+    <Resource Include="Галиев Автосервис\diz.jpg" />
+    <Resource Include="Галиев Автосервис\rulevoe-upravlenie-avtomobilya.jpg" />
+    <Resource Include="Галиев Автосервис\transmission.jpg" />
+    <Resource Include="Галиев Автосервис\АКПП.jpg" />
+    <Resource Include="Галиев Автосервис\Вариатор.jpg" />
+    <Resource Include="Галиев Автосервис\Выхлопная система.jpg" />
+    <Resource Include="Галиев Автосервис\ГУР.png" />
+    <Resource Include="Галиев Автосервис\Двигатель.png" />
+    <Resource Include="Галиев Автосервис\Дополнительные услуги.png" />
+    <Resource Include="Галиев Автосервис\Кондиционер.jpg" />
+    <Resource Include="Галиев Автосервис\КПП.png" />
+    <Resource Include="Галиев Автосервис\Подвеска.png" />
+    <Resource Include="Галиев Автосервис\Сцепление.jpg" />
+    <Resource Include="Галиев Автосервис\Техническое обслуживание.png" />
+    <Resource Include="Галиев Автосервис\Топливная система.png" />
+    <Resource Include="Галиев Автосервис\Шиномонтаж.jpg" />
+    <Resource Include="Галиев Автосервис\Электрика.png" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
